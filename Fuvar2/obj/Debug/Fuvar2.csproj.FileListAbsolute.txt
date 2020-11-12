@@ -1,0 +1,6 @@
+C:\Users\Szilvia\source\repos\Fuvar2\Fuvar2\bin\Debug\Fuvar2.exe.config
+C:\Users\Szilvia\source\repos\Fuvar2\Fuvar2\bin\Debug\Fuvar2.exe
+C:\Users\Szilvia\source\repos\Fuvar2\Fuvar2\bin\Debug\Fuvar2.pdb
+C:\Users\Szilvia\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.csprojAssemblyReference.cache
+C:\Users\Szilvia\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.exe
+C:\Users\Szilvia\source\repos\Fuvar2\Fuvar2\obj\Debug\Fuvar2.pdb
